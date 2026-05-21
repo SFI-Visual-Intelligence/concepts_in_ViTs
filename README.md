@@ -1,3 +1,5 @@
+Paper: From Colors to Classes: Emergence of Concepts in Vision Transformers ([Link](https://api.nva.unit.no/publication/0199ecc025ea-de1c790c-76c6-4485-85d4-8d0cd165ed55))
+
 #  Emergence of Concepts in Vision Transformers
 This is the official repository for the paper "From Colors to Classes: Emergence of Concepts in Vision Transformers" by Teresa Dorszewski, Lenka Tětková, Robert Jenssen, Lars Kai Hansen, Kristoffer Knutsen Wickstrøm.
 
